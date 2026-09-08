@@ -1,0 +1,6 @@
+id,category,owner,status,priority,hours,sla
+DOC-01,Incident policy,Operations,Indexed,High,0.3,1
+DOC-02,Access standard,Security,Indexed,Medium,0.4,1
+DOC-03,Validation SOP,Quality,Indexed,High,0.5,1
+QRY-04,Policy query,Assistant,Grounded,Low,0.1,1
+QRY-05,Unsupported query,Assistant,Abstained,Medium,0.1,1
